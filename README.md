@@ -1,6 +1,6 @@
 ## Olá! Eu sou Jonathan Jacobovski
 
-- 🔭 Pretendo trabalhar com back-end
+- 🔭 Pretendo trabalhar com back-end utilizando Python!
 - 🌱 Estudando Python e C
 
 <div align="center">

@@ -1,7 +1,8 @@
 ## Olá! Eu sou Jonathan Jacobovski
 
 - 🔭 Pretendo trabalhar com back-end utilizando Python!
-- 🌱 Estudando Python e C
+- 🌱 Estudando atualmente Javascript, HTML e CSS
+- 🔭 Tenho conhecimento em Python, C++, Lógica de Programação, Estrutura de Dados e SQL
 
 <div align="center">
   <a href="https://github.com/JonthanOJ">

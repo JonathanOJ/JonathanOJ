@@ -2,7 +2,7 @@
 
 - 🔭 Pretendo trabalhar com front-end utilizando Javascript!
 - 🌱 Estudando atualmente Javascript, HTML e CSS
-- 🔭 Tenho conhecimento em Python, C++, Lógica de Programação, Estrutura de Dados e SQL
+- 🔭 Tenho conhecimento em Python, C, Lógica de Programação, Estrutura de Dados e SQL
 
 <div align="center">
   <a href="https://github.com/JonthanOJ">

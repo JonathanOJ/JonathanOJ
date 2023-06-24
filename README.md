@@ -1,8 +1,8 @@
 ## Olá! Eu sou Jonathan Jacobovski
 
-- 🔭 Pretendo trabalhar com front-end utilizando Javascript!
-- 🌱 Estudando atualmente Javascript, HTML e CSS
-- 🔭 Tenho conhecimento em Python, C, Lógica de Programação, Estrutura de Dados e SQL
+- 🔭 Trabalho atualmente utilizando Angular e Java!
+- 🔭 Tenho conhecimento em TypeScript, Java, Angular, Banco de Dados e Lógica de Programação.
+- 🔭 Sempre em busca de conhecimento!
 
 <div align="center">
   <a href="https://github.com/JonthanOJ">

@@ -1,7 +1,7 @@
 ## Olá! Eu sou Jonathan Jacobovski
 
 - 🔭 Trabalho atualmente utilizando Angular e Java!
-- 🔭 Tenho conhecimento em TypeScript, Java, Angular, Banco de Dados e Lógica de Programação.
+- 🔭 Tenho conhecimento em TypeScript, Java, Angular, PostGres, NodeJs, Aws Lambda, Serverless e Microfront-end.
 - 🔭 Sempre em busca de conhecimento!
 
 <div align="center">
